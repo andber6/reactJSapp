@@ -1,0 +1,28 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "my react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "empty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andber6/reactJSapp.git"
+  },
+  "keywords": [
+    "empty"
+  ],
+  "author": "André Bergan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andber6/reactJSapp/issues"
+  },
+  "homepage": "https://github.com/andber6/reactJSapp#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2"
+  }
+}
